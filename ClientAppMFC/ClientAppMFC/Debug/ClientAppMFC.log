@@ -1,0 +1,7 @@
+﻿  pch.cpp
+  CClientService.cpp
+  CClientAppMFC.cpp
+  CClientAppMFCDlg.cpp
+C:\Users\Federico\source\repos\ClientAppMFC\ClientAppMFC\CClientAppMFCDlg.cpp(21,12): warning C4244: 'argomento': conversione da 'time_t' a 'unsigned int'. Possibile perdita di dati.
+  Generazione del codice in corso...
+  ClientAppMFC.vcxproj -> C:\Users\Federico\source\repos\ChatService\Debug\ClientAppMFC.exe

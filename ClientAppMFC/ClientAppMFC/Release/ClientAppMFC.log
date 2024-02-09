@@ -1,0 +1,10 @@
+﻿  pch.cpp
+  CClientService.cpp
+  CClientAppMFC.cpp
+  CClientAppMFCDlg.cpp
+C:\Users\Federico\source\repos\ClientAppMFC\ClientAppMFC\CClientAppMFCDlg.cpp(21,12): warning C4244: 'argomento': conversione da 'time_t' a 'unsigned int'. Possibile perdita di dati.
+  Generazione codice in corso...
+  Previous IPDB not found, fall back to full compilation.
+  All 390 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  Generazione codice terminata
+  ClientAppMFC.vcxproj -> C:\Users\Federico\source\repos\ChatService\Release\ClientAppMFC.exe
